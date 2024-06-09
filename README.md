@@ -30,7 +30,3 @@ Este repositório centraliza meu plano de desenvolvimento individual, organizado
 ## Como Usar
 
 Cada link leva a um repositório específico que contém projetos, documentação, e exemplos práticos para cada área de desenvolvimento mencionada no meu PDI. Explore cada repositório para ver meu progresso e os resultados alcançados em cada área.
-
-## Contato
-
-Se tiver alguma dúvida ou sugestão, entre em contato através de [meu-email@exemplo.com](mailto:meu-email@exemplo.com).
